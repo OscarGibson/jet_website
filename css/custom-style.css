@@ -1,0 +1,21 @@
+.site-wrap {
+	background-color: #232323;
+}
+
+.logo img {
+	height: 64px;
+}
+
+.logo-text {
+	height: 47px;
+}
+
+.social a {
+	color: #dcdcdc;
+	font-size: 1.5rem;
+}
+
+.desc {
+	font-family: 'Montserrat';
+	color: #999999 !important;
+}
